@@ -1,0 +1,9 @@
+Dependencies for Project 'test', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x640D62A2)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\÷”‘∆\Desktop\single-chip\keil\date0311\RTE-I C:\Keil_v5_2\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0-I C:\Keil_v5_2\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DSTM32F10X_LD-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (outer_define.h)(0x640D62A2)
+F (.\startup_stm32f10x_hd.s)(0x64047B28)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Users\÷”‘∆\Desktop\single-chip\keil\date0311\RTE-I C:\Keil_v5_2\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0-I C:\Keil_v5_2\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 514" --pd "STM32F10X_LD SETA 1"--list .\listings\startup_stm32f10x_hd.lst --xref -o .\objects\startup_stm32f10x_hd.o --depend .\objects\startup_stm32f10x_hd.d)
+F (.\output_function.c)(0x640D68C7)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\÷”‘∆\Desktop\single-chip\keil\date0311\RTE-I C:\Keil_v5_2\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0-I C:\Keil_v5_2\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DSTM32F10X_LD-o .\objects\output_function.o --omf_browse .\objects\output_function.crf --depend .\objects\output_function.d)
+I (outer_define.h)(0x640D62A2)
+I (inner_define.h)(0x640D7079)
+F (.\inner_function.c)(0x640D71A1)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\÷”‘∆\Desktop\single-chip\keil\date0311\RTE-I C:\Keil_v5_2\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0-I C:\Keil_v5_2\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DSTM32F10X_LD-o .\objects\inner_function.o --omf_browse .\objects\inner_function.crf --depend .\objects\inner_function.d)
+I (inner_define.h)(0x640D7079)
