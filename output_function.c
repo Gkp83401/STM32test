@@ -21,7 +21,7 @@ void init(unsigned char a)
 			if (a == HAVE_CURSOR) {
 				initCommands[i] = 0x0F;
 			} else {
-				initCommands[i] = 0x08;
+				initCommands[i] = 0x0C;
 			}
 		}
 		/* 

@@ -4,7 +4,7 @@ void SystemInit() {}
 	
 int main()
 {
-	init(HAVE_CURSOR);
+	init(NO_CURSOR);
 	my_printf("hello\nworld");
 	while(1);
 }
